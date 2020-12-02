@@ -1,0 +1,6 @@
+from tkinter import *
+import time
+tk = Tk()
+btn = Button (tk, text='Нажми меня')
+btn.pack()
+time.sleep(5)
